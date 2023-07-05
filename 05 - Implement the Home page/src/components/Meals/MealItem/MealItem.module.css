@@ -1,0 +1,22 @@
+.meal {
+	margin: 1rem;
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+		rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+	padding: 10px;
+	margin: 30px;
+}
+
+.meal h3 {
+	margin: 0 0 0.25rem 0;
+}
+
+.description {
+	font-style: italic;
+}
+
+.price {
+	margin-top: 0.25rem;
+	font-weight: bold;
+	color: #ad5502;
+	font-size: 1.25rem;
+}
